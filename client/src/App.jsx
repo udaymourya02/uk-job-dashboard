@@ -392,7 +392,7 @@ export default function App() {
           </div>
           <div className="about-bio">Technically versatile professional combining software engineering, data analytics, BI, and full-stack development. Built this dashboard as a real-world demonstration of end-to-end data engineering.</div>
           <div className="about-links">
-            <a href="https://linkedin.com/in/udaymourya" target="_blank" rel="noopener noreferrer" className="about-link">LinkedIn →</a>
+            <a href="https://www.linkedin.com/in/uday-mourya-1b0062230/?skipRedirect=true" target="_blank" rel="noopener noreferrer" className="about-link">LinkedIn →</a>
             <a href="https://github.com/udaymourya02" target="_blank" rel="noopener noreferrer" className="about-link">GitHub →</a>
           </div>
         </div>
